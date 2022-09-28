@@ -1,4 +1,4 @@
-myenv/
+venv/
 .vscode/
 __pycache__/
 test.db
